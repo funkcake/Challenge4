@@ -1,2 +1,2 @@
 # Challenge4
- Quiz with high score
+ Fun quiz with high score
